@@ -9,6 +9,7 @@
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
