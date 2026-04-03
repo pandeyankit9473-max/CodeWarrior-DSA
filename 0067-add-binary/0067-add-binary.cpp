@@ -5,7 +5,7 @@ public:
         int j=b.size()-1;
         int carry=0 ,sum=0;
         string result="";
-        while(i>=0 || j>=0){
+        while(i>=0 || j>=0 || carry){
          sum=carry;
             if(i>=0){
                 sum+=a[i]-'0';
