@@ -12,11 +12,12 @@ public:
         int ans=0;
        for(int i = 0; i < s.size(); i++)
 {
-    if(i < s.size()-1 && mp[s[i]] < mp[s[i+1]])
-        ans -= mp[s[i]];
-    else
-        ans += mp[s[i]];
+   if(i==s.size()-1 || mp[s[i]]>=mp[s[i+1]])
+   ans+=mp[s[i]];
+   else
+   ans-=mp[s[i]];
 }
         return ans;
     }
 };
+// the things i was thinking must be written in this way if(i == s.size()-1 || mp[s[i]] >= mp[s[i+1]]). because we have to keep in mind that the interation mustb not cross the boundARY...
