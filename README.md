@@ -69,6 +69,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -82,6 +83,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
