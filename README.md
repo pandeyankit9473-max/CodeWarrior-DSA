@@ -40,6 +40,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0069-sqrtx) |
 ## Dynamic Programming
 |  |
@@ -66,6 +67,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -79,4 +81,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
