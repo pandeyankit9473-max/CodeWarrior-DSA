@@ -12,6 +12,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0704-binary-search) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +118,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
