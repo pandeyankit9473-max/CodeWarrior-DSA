@@ -43,6 +43,7 @@
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
