@@ -76,6 +76,7 @@
 | [0013-roman-to-integer](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
 ## String
@@ -86,6 +87,7 @@
 | [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
