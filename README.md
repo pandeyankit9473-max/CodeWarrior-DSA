@@ -83,6 +83,7 @@
 | [0014-longest-common-prefix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -93,6 +94,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 ## Stack
 |  |
