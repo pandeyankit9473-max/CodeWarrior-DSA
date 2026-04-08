@@ -88,6 +88,7 @@
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
