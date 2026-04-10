@@ -81,6 +81,7 @@
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0796-rotate-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -169,4 +171,5 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
