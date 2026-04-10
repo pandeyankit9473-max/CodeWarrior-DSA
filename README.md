@@ -52,6 +52,7 @@
 | [0070-climbing-stairs](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
