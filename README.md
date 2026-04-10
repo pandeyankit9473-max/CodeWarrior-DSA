@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
