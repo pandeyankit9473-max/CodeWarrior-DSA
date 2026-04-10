@@ -119,6 +119,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
@@ -179,4 +180,16 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
