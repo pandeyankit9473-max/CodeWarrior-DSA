@@ -7,7 +7,7 @@ public:
         
         int n = temperatures.size();
         stack<int> st;              // stack me indices store honge
-        vector<int> result(n);
+        vector<int> ans(n);
 
         for(int i = n-1; i >= 0; i--) {
 
@@ -16,15 +16,15 @@ public:
             }
 
             if(st.empty()) {
-                result[i] = 0;
+                ans[i] = 0;
             }
             else {
-                result[i] = st.top() - i;   // days ka difference
+                ans[i] = st.top() - i;   // days ka difference
             }
 
             st.push(i);
         }
 
-        return result;
+        return ans;
     }
 };
