@@ -115,6 +115,7 @@
 | [0141-linked-list-cycle](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
