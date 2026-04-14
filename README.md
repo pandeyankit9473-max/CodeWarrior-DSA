@@ -117,12 +117,14 @@
 | [0142-linked-list-cycle-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -147,6 +149,7 @@
 | [0141-linked-list-cycle](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -154,6 +157,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 ## Matrix
 |  |
