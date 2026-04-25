@@ -111,6 +111,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Trie
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
