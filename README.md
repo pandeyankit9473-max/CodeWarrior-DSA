@@ -56,6 +56,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 ## Matrix
