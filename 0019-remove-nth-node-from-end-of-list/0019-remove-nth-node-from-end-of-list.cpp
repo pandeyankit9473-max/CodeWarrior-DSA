@@ -35,7 +35,7 @@ public:
 //             cnt++;
 //             temp=temp->next;
 //         }
-//         if(n == cnt){ // edge case handling when only one element in list..
+//         if(n == cnt){ // edge case when delete the head from the end...
 //          return head->next;
 //          }
 //        int count=0; temp=head;
