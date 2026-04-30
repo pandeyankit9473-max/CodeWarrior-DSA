@@ -79,6 +79,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
