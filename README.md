@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
@@ -163,6 +165,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0328-odd-even-linked-list) |
@@ -185,6 +188,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -223,4 +227,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
