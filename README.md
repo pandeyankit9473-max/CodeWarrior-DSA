@@ -13,6 +13,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -56,6 +57,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -233,4 +235,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
