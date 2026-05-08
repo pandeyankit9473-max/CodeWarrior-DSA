@@ -62,6 +62,7 @@
 | [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
