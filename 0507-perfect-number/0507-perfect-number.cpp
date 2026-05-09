@@ -6,7 +6,7 @@ public:
         for(int i=2;i*i<=num;i++){
             if(num%i==0){
             sum+=i;
-            if(i!=num/i) // to remove duplicates 
+            if(i!=num/i) // to remove duplicates (36=6*6)we take only one divsor
                 sum+=num/i;
             }
         }
@@ -18,3 +18,5 @@ public:
 //             if(num%i==0) sum+=i;
 //         }
 //         return sum==num;
+
+// i did a simpe mistake here i shoul have to check both number simul...if cond
