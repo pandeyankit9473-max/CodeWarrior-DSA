@@ -68,6 +68,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -104,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0014-longest-common-prefix) |
@@ -129,6 +131,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
