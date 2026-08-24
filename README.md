@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
@@ -116,6 +117,7 @@
 | [0013-roman-to-integer](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
@@ -270,4 +272,12 @@
 | ------- |
 | [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
