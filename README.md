@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -170,6 +171,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 ## Simulation
@@ -276,6 +278,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
