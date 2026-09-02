@@ -30,6 +30,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1539-kth-missing-positive-number) |
 ## Math
 |  |
@@ -156,6 +158,7 @@
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2000-reverse-prefix-of-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -228,6 +231,7 @@
 | [0217-contains-duplicate](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sliding Window
 |  |
 | ------- |
