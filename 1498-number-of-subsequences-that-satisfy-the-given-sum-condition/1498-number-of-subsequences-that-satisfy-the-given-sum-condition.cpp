@@ -13,32 +13,44 @@ public:
             power[i] = (power[i-1] * 2LL) % mod;
         }
 
-        int ans = 0;
-
-        for(int i = 0; i < n; i++) {
-
-            int low = i;
-            int high = n - 1;
-            int j = -1;
-
-            while(low <= high) {
-
-                int mid = low + (high - low) / 2;
-
-                if(nums[i] + nums[mid] <= target) {
-                    j = mid;
-                    low = mid + 1;
-                }
-                else {
-                    high = mid - 1;
-                }
+        int l=0, r=n-1;
+        int ans=0;
+        while(l<=r){
+            if(nums[l]+nums[r]<=target){
+                int diff=r-l;
+                ans=(ans%mod+power[diff])%mod;
+                l++;
             }
-
-            if(j != -1) {
-                ans = (ans + power[j-i]) % mod;
-            }
+            else r--;
         }
-
-        return ans;
+         return ans;
     }
 };
+
+// int ans = 0;
+
+//         for(int i = 0; i < n; i++) {
+
+//             int low = i;
+//             int high = n - 1;
+//             int j = -1;
+
+//             while(low <= high) {
+
+//                 int mid = low + (high - low) / 2;
+
+//                 if(nums[i] + nums[mid] <= target) {
+//                     j = mid;
+//                     low = mid + 1;
+//                 }
+//                 else {
+//                     high = mid - 1;
+//                 }
+//             }
+
+//             if(j != -1) {
+//                 ans = (ans + power[j-i]) % mod;
+//             }
+//         }
+
+//         return ans;
