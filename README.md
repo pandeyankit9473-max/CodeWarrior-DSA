@@ -13,6 +13,7 @@
 | [0078-subsets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
