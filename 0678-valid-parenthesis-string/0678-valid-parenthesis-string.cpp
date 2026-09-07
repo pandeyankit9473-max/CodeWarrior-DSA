@@ -1,17 +1,34 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int n=s.length();
-       int low=0, high=0;
-       for(int i=0;i<n;i++){
-        if(s[i]=='('){ low++; high++;}
-        else if(s[i]==')') { low--; high--;}
-        else{//*
-            low--; high++;
-         }
-         if(high<0) return false;
-         low=max(0,low);
-     }
-     return low==0;
+        int low = 0;
+        int high = 0;
+
+        for (char c : s) {
+
+            if (c == '(') {
+                low++;
+                high++;
+            }
+
+            else if (c == ')') {
+                low--;
+                high--;
+            }
+
+            else { // '*'
+                low--;
+                high++;
+            }
+
+            // Even maximum balance is negative
+            if (high < 0)
+                return false;
+
+            // Minimum balance cannot be negative
+            low = max(0, low);
+        }
+
+        return low == 0;
     }
 };
