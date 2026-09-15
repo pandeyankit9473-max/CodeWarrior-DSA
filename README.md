@@ -23,6 +23,7 @@
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0704-binary-search) |
@@ -45,6 +46,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -120,6 +122,7 @@
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -167,6 +170,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2000-reverse-prefix-of-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -244,6 +248,7 @@
 | [0217-contains-duplicate](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
