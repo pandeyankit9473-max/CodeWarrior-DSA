@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0074-search-a-2d-matrix) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
