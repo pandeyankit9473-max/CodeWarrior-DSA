@@ -328,4 +328,20 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
