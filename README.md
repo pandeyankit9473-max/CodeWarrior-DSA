@@ -76,6 +76,7 @@
 | [0202-happy-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0507-perfect-number) |
@@ -88,6 +89,7 @@
 | [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
@@ -238,6 +240,7 @@
 | [0050-powx-n](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 ## Matrix
