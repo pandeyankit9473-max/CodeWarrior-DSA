@@ -39,6 +39,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1539-kth-missing-positive-number) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String Matching
 |  |
 | ------- |
