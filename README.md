@@ -6,6 +6,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -172,6 +173,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0027-remove-element) |
@@ -258,6 +260,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0215-kth-largest-element-in-an-array) |
