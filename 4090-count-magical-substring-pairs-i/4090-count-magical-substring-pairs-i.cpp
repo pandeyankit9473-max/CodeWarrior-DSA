@@ -1,33 +1,29 @@
-
 class Solution {
 public:
     int countMagicalPairs(string s) {
-        int n = s.size();
-        long long answer = 0;
-
-
-        for (int j = 1; j < n; j++) {
-            int leftFreq[27] = {};
-            int rightFreq[27] = {};
-
-            unordered_map<char, int> left;
-            unordered_map<char, int> right;
-
-            for (int i = j - 1; i >= 0; i--) {
+        int n=s.length();
+        long long ans=0;
+        //we will start with split and count total split=n-1 and starts from 1 because we have to compare a non empty string not a empty one
+        for(int j=1;j<n;j++){
+            int leftfq[27]={};
+            int rightfq[27]={};
+            unordered_map<char,int>left;
+            unordered_map<char,int>right;
+            //cout distinct char left side
+            for(int i=j-1;i>=0;i--){
                 left[s[i]]++;
-                leftFreq[left.size()]++;
+                leftfq[left.size()]++;
             }
-
-            for (int i = j; i < n; i++) {
+            //  distinct char right sides....
+            for(int i=j;i<n;i++){
                 right[s[i]]++;
-                rightFreq[right.size()]++;
+                rightfq[right.size()]++;
             }
-
-            for (int d = 1; d <= 26; d++) {
-                answer += 1LL * leftFreq[d] * rightFreq[d];
-            }
+        // Match substrings having the same number of distinct characters
+        for(int k=1;k<=26;k++){
+            ans+=leftfq[k]*rightfq[k];
         }
-
-        return answer;
+    }
+        return ans;
     }
 };
