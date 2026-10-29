@@ -96,6 +96,7 @@
 | [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0233-number-of-digit-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -359,6 +360,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -376,6 +378,7 @@
 | [0101-symmetric-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -404,6 +407,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -416,6 +420,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Hash Function
 |  |
