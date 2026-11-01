@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -266,6 +267,7 @@
 | [0200-number-of-islands](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -406,6 +408,7 @@
 | [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
