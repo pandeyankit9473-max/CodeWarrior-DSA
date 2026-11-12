@@ -402,6 +402,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0684-redundant-connection) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -417,6 +418,7 @@
 | [0226-invert-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -474,12 +476,14 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
