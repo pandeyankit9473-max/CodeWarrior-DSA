@@ -18,7 +18,8 @@ public:
             for(int len = l; len <= r; len++) {
 
                 if(i + len <= n) {
-
+ //<=n because prefix idx has 0 to n....
+ 
                     int sum = prefix[i + len] - prefix[i];
 
                     if(sum > 0) {
