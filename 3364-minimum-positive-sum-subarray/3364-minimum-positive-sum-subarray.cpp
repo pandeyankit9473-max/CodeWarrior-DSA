@@ -4,7 +4,7 @@ public:
     int minimumSumSubarray(vector<int>& nums, int l, int r) {
         int ans=INT_MAX;
         int n = nums.size();
-        for(int i=0;i<n;i++){
+        for(int i=0;i<=n-l;i++){
             int sum=0;
             for(int right=i; right<n;right++){
                 
