@@ -44,6 +44,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1539-kth-missing-positive-number) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
@@ -94,6 +95,7 @@
 | [0367-valid-perfect-square](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0507-perfect-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
@@ -107,6 +109,7 @@
 | [0233-number-of-digit-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
