@@ -183,6 +183,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0258-add-digits) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Memoization
 |  |
 | ------- |
