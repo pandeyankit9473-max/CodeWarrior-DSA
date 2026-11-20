@@ -34,6 +34,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0875-koko-eating-bananas) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -156,6 +158,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
