@@ -41,6 +41,7 @@
 | [0994-rotting-oranges](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -112,6 +113,7 @@
 | [0233-number-of-digit-one](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0233-number-of-digit-one) |
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0678-valid-parenthesis-string) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
 |  |
