@@ -51,6 +51,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
@@ -164,6 +165,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String
@@ -195,6 +197,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Trie
 |  |
 | ------- |
@@ -403,6 +406,7 @@
 | [0572-subtree-of-another-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -426,6 +430,7 @@
 | [0572-subtree-of-another-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0684-redundant-connection) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
