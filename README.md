@@ -383,6 +383,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
