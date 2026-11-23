@@ -18,7 +18,9 @@ public:
     }
     
     int getProduct(int k) {
-        if(k>=prefix.size()) return 0; //its 0 wlaa case ...
+        if(k>=prefix.size()) return 0; //its 0 wlaa case ... 
+//prefix.size() = ActualNumbersAfterZero + 1
+
         int n=prefix.size();
         return prefix[n-1]/prefix[n-k-1];
     }
