@@ -44,6 +44,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -102,6 +103,7 @@
 | [0367-valid-perfect-square](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0367-valid-perfect-square) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0507-perfect-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
@@ -133,6 +135,7 @@
 | [0410-split-array-largest-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -360,6 +364,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Merge Sort
 |  |
 | ------- |
