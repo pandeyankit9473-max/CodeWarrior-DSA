@@ -107,6 +107,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0067-add-binary](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3360-stone-removal-game) |
 ## Memoization
 |  |
 | ------- |
