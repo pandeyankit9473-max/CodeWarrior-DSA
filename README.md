@@ -55,6 +55,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
@@ -108,6 +109,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1922-count-good-numbers) |
 | [3360-stone-removal-game](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3360-stone-removal-game) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | [0219-contains-duplicate-ii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String Matching
 |  |
@@ -375,11 +378,13 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
