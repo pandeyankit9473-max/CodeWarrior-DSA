@@ -19,3 +19,8 @@ public:
         return len;
     }
 };
+
+// For subarrays of length 3 or more:
+// - Every pair of elements must be coprime.
+// - Coprime means gcd(a,b) == 1.
+// - No prime factor should be shared between any two elements.
