@@ -56,6 +56,7 @@
 | [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3934-smallest-unique-subarray) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
@@ -83,6 +84,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1539-kth-missing-positive-number) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3934-smallest-unique-subarray) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## String
@@ -493,6 +496,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0572-subtree-of-another-tree) |
+| [3934-smallest-unique-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -536,4 +540,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0207-course-schedule) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
