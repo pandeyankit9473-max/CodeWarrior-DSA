@@ -58,6 +58,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
@@ -128,6 +129,7 @@
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0678-valid-parenthesis-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/pandeyankit9473-max/CodeWarrior-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
